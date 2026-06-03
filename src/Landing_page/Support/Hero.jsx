@@ -1,5 +1,4 @@
 import SearchIcon from "@mui/icons-material/Search";
-import { div } from "motion/react-client";
 
 function Hero() {
   return (
